@@ -1,4 +1,4 @@
 ---
 
-kubernetes_master_ip: "172.16.66.2"
+kubernetes_master_ip: "192.168.33.60"
 kubeadm_token:        "jfuw63.1osue85lsh973hbf"
